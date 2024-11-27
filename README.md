@@ -1,1 +1,1 @@
-# Animating the arciving of messages animation with framer motion
+# Animating the archiving of messages animation with framer motion
